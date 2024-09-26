@@ -1,0 +1,6 @@
+%d - int
+%ld - long int
+%lld - long long int
+%s - string
+%f - float
+%c - chart
