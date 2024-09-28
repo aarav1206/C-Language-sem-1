@@ -10,6 +10,9 @@ int main(){
 
     int sum = a + b;
     printf("Sum is:%d" , sum);
+     // printf("Sum is:%d" , a + b); //we can use directly operation without creating variables
+    // printf("Sum is:%d" , a - b);
+    // printf("Sum is:%d" , a * b);
     return 0;
     
 }
