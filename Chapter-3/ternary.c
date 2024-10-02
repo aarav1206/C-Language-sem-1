@@ -2,6 +2,7 @@
 
 int main(){
     // condition ? expression-if-true : expression-if-false
+    //this is shorthand or if and else 
     int a = 5;
     int b = 7;
 
